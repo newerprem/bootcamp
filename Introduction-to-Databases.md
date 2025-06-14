@@ -110,3 +110,8 @@ Every order is assigned to a **single salesperson**, but each **salesperson can 
 ```
 CREATE INDEX idx_orders_customer_id ON orders(customer_id);
 ```
+## Q8) How to show index on a table
+```
+SHOW INDEXES FROM orders;
+```
+![Output - How to show index on a table](https://github.com/user-attachments/assets/5c164a1d-f946-462f-92ca-d2bb6a797870)
