@@ -93,3 +93,12 @@ Every order is assigned to a **single salesperson**, but each **salesperson can 
 ### Output
 
 ![Output - Salespersons with Multiple Orders](https://github.com/user-attachments/assets/ad71c528-a925-4b5b-8e4f-4f3f9376a97b)
+
+## Q6) Find the all sales person details along with order details.
+### Query
+
+![Query - Find the all sales person details along with order details](https://github.com/user-attachments/assets/c471d2b3-1265-4798-af44-e4466d235cd6)
+
+### Output
+
+![Output - Find the all sales person details along with order details](https://github.com/user-attachments/assets/d83dccf8-6379-4aa1-ace1-b6a1bde716f8)
