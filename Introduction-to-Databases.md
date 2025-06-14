@@ -115,3 +115,13 @@ CREATE INDEX idx_orders_customer_id ON orders(customer_id);
 SHOW INDEXES FROM orders;
 ```
 ![Output - How to show index on a table](https://github.com/user-attachments/assets/5c164a1d-f946-462f-92ca-d2bb6a797870)
+
+
+## Q9) Find the order number, sale person name, along with the customer to whom that order belongs to
+### Query
+
+![Query - Q9](https://github.com/user-attachments/assets/63e604b7-bb9b-4f0a-bebc-97eac973b4ce)
+
+### Output
+
+![Output - Q9](https://github.com/user-attachments/assets/7ef7f710-7d36-47b4-946d-608d68a89d53)
