@@ -61,11 +61,17 @@ Every order is assigned to a **single salesperson**, but each **salesperson can 
 
 <img width="358" alt="Customers" src="https://github.com/user-attachments/assets/761d100b-ba24-4e3c-aeeb-1c20b36a181e" />
 
+### Output
+<img width="308" alt="Image" src="https://github.com/user-attachments/assets/636c791c-25b8-48c0-8697-6218aeeebaef" />
+
 ---
 
 ### Salespersons
 
 <img width="370" alt="Salespersons" src="https://github.com/user-attachments/assets/509c46bc-9319-4e92-adec-3f3efd8e9009" />
+
+### Output
+<img width="305" alt="Image" src="https://github.com/user-attachments/assets/b112423f-4260-4d9b-bfea-249705fdb25c" />
 
 ---
 
@@ -73,11 +79,17 @@ Every order is assigned to a **single salesperson**, but each **salesperson can 
 
 <img width="442" alt="Products" src="https://github.com/user-attachments/assets/52ea6b64-53fc-491c-906b-4514fbf781e9" />
 
+### Output
+<img width="311" alt="Image" src="https://github.com/user-attachments/assets/a9fdad7a-baf7-4a92-98d5-738d5102b09c" />
+
 ---
 
 ### Orders
 
 <img width="477" alt="Orders" src="https://github.com/user-attachments/assets/793feb9d-46e9-4672-bfef-d90fe173dbdc" />
+
+### output
+<img width="412" alt="Image" src="https://github.com/user-attachments/assets/140b7a87-4a37-4f96-bea0-a1613c83a512" />
 
 ---
 
@@ -85,6 +97,10 @@ Every order is assigned to a **single salesperson**, but each **salesperson can 
 
 <img width="617" alt="Order Items" src="https://github.com/user-attachments/assets/46dda891-a077-476e-9d6b-ea8053c86f72" />
 
+### Output
+<img width="322" alt="Image" src="https://github.com/user-attachments/assets/6d85ddda-e5d6-4af3-a9e3-2dc21d9a4b77" />
+
+--- 
 ## Q5) Find the sales person have multiple orders.
 ### Query
 
