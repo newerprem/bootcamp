@@ -102,3 +102,11 @@ Every order is assigned to a **single salesperson**, but each **salesperson can 
 ### Output
 
 ![Output - Find the all sales person details along with order details](https://github.com/user-attachments/assets/d83dccf8-6379-4aa1-ace1-b6a1bde716f8)
+
+
+## Q7) Create Index.
+### Query
+
+```
+CREATE INDEX idx_orders_customer_id ON orders(customer_id);
+```
