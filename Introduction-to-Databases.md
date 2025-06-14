@@ -84,3 +84,12 @@ Every order is assigned to a **single salesperson**, but each **salesperson can 
 ### Order Items
 
 <img width="617" alt="Order Items" src="https://github.com/user-attachments/assets/46dda891-a077-476e-9d6b-ea8053c86f72" />
+
+## Q5) Find the sales person have multiple orders.
+### Query
+
+![Query - Find Salespersons with Multiple Orders](https://github.com/user-attachments/assets/2fcee486-2fd4-42fc-8d1a-9f15b84fb86f)
+
+### Output
+
+![Output - Salespersons with Multiple Orders](https://github.com/user-attachments/assets/ad71c528-a925-4b5b-8e4f-4f3f9376a97b)
